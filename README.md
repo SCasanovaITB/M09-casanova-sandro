@@ -35,6 +35,9 @@ Start it again with updated resolution:
 vncserver :1 -geometry 1920x1080 -depth 24
 ```
 ### 6️⃣ Connect using a VNC client
+Using Remmina (or any VNC client)
+Connect to localhost:5901 (if running locally)
+Default password: developerpassword · You can change this in the Dockerfile, but it's not recommended.
 ### 7️⃣ The public URL of Docker Hub
 
 
@@ -42,6 +45,4 @@ vncserver :1 -geometry 1920x1080 -depth 24
 Ensure you have Docker installed before running the commands.
 
 Verify that the VNC port is properly configured in the container.
-
-Replace [DOCKERHUB_URL] with the actual image URL on Docker Hub.
 
