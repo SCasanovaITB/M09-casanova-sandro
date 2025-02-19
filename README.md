@@ -36,7 +36,9 @@ vncserver :1 -geometry 1920x1080 -depth 24
 ```
 ### 6️⃣ Connect using a VNC client
 Using Remmina (or any VNC client)
+
 Connect to localhost:5901 (if running locally)
+
 Default password: developerpassword · You can change this in the Dockerfile, but it's not recommended.
 ### 7️⃣ The public URL of Docker Hub
 
