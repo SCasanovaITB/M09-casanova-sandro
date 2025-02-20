@@ -41,7 +41,7 @@ Connect to localhost:5901 (if running locally)
 
 Default password: developerpassword · You can change this in the Dockerfile, but it's not recommended.
 ### 7️⃣ The public URL of Docker Hub
-https://hub.docker.com/repository/docker/sandrocasanova/m09-casanova-sandro/general
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repository/docker/sandrocasanova/m09-casanova-sandro/general)
 
 # 📋 Notes
 Ensure you have Docker installed before running the commands.
